@@ -18,8 +18,8 @@
 
 #### One time setup
 
-- Clone the repository: `git clone https://github.com:ankitgoyaluc/backend_driven_demo`
-- On your terminal, go inside the cloned folder and run : `npm i` and `npm i expo-cli`
+- Clone the repository on your machine
+- On your terminal, go inside the cloned folder using `cd` and then run : `npm i` and `npm i expo-cli`
 - Now run `npm run web`
 - Open expo app on your device, and scan the QR code on your terminal
 
