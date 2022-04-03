@@ -1,4 +1,4 @@
-# TypeScript Example
+# Backend driven frontend App
 
 <p>
   <!-- iOS -->
